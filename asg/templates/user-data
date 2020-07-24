@@ -1,0 +1,3 @@
+#!/bin/bash
+
+# Type any commands you want cloud-init to run during bootstrap phase
